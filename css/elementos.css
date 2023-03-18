@@ -6,7 +6,7 @@
 .categoria_n2 > ol {
     margin: 1rem 3rem;
     font-size: 17px;
-    color: var(--color11);
+    color: var(--color9);
 
 }
 
@@ -30,7 +30,7 @@
 .categoria_n4 > ol {
     margin: 1rem 3rem;
     font-size: 17px;
-    color: var(--color11);
+    color: var(--color9);
 
 }
 
@@ -54,7 +54,7 @@
 .categoria_n6 > ol {
     margin: 1rem 3rem;
     font-size: 17px;
-    color: var(--color11);
+    color: var(--color9);
 
 }
 
@@ -68,4 +68,4 @@
     font-size: 17px;
     color: var(--color11);
 
-}
+};
