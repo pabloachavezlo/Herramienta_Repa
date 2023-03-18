@@ -1,0 +1,17 @@
+.titulo > h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 5rem 2rem;
+}
+
+.categoria_n1 > h1 {
+    font-size: 2rem;
+    margin: 2rem 1rem;
+}
+
+.categoria_n1 > ol {
+    margin: 1rem 3rem;
+    font-size: 17px;
+    color: var(--color11);
+
+}
