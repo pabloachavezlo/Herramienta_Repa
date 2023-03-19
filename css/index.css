@@ -9,9 +9,43 @@
     margin: 2rem 1rem;
 }
 
-.categoria_n1 > ol {
-    margin: 1rem 3rem;
-    font-size: 17px;
-    color: var(--color11);
 
+.ejem1 > h2 {
+    margin: 1rem 3rem;
+    font-size: 2rem;
+    color: var(--color11);
+    display: flex;
 };
+
+
+.ejem1 > a {
+    margin: 5rem 3rem;
+
+}
+
+a > img {
+    margin: 1rem 3rem;
+    height: 7rem;
+    border: 5px solid black;
+    border-radius: 4px;
+}
+
+.ejem2 > h2 {
+    margin: 1rem 3rem;
+    font-size: 2rem;
+    color: var(--color8);
+    display: flex;
+};
+
+
+.ejem2 > a {
+    margin: 5rem 3rem;
+
+}
+
+a > img {
+    margin: 1rem 3rem;
+    height: 7rem;
+    border: 5px solid black;
+    border-radius: 4px;
+}
