@@ -49,3 +49,43 @@ a > img {
     border: 5px solid black;
     border-radius: 4px;
 }
+
+.ejem3 > h2 {
+    margin: 1rem 3rem;
+    font-size: 2rem;
+    color: var(--color7);
+    display: flex;
+};
+
+
+.ejem3 > a {
+    margin: 5rem 3rem;
+
+}
+
+a > img {
+    margin: 1rem 3rem;
+    height: 7rem;
+    border: 5px solid black;
+    border-radius: 4px;
+}
+
+.ejem4 > h2 {
+    margin: 1rem 3rem;
+    font-size: 2rem;
+    color: var(--color13);
+    display: flex;
+};
+
+
+.ejem4 > a {
+    margin: 5rem 3rem;
+
+}
+
+a > img {
+    margin: 1rem 3rem;
+    height: 7rem;
+    border: 5px solid black;
+    border-radius: 4px;
+}
